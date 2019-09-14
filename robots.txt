@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiwazohchu.agiletoursyd.org/sitemap.xml
